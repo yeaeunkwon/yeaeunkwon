@@ -4,6 +4,7 @@
 
 #### :cactus: Welcome to Yeaeun's Github Profile :cactus:  
 <br/>
+<br/>
 
 ####  :page_with_curl: My research interests lie in Computational Social Science :page_with_curl:
 #### - Developing and adapting NLP models within social contexts
@@ -11,8 +12,9 @@
 #### - Improving human-human interaction annd human-computer interaction
 
 <br/>
+<br/>
 
-####  :lemon: What I can use  :lemon:
+####  :lemon: What I Am Using  :lemon:
   
  <br/>
  
@@ -21,6 +23,8 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/>  
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<br/>
+
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
